@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ministries on Bowen Memorial Methodist Church</title>
+    <link>http://localhost:1313/categories/ministries/</link>
+    <description>Recent content in Ministries on Bowen Memorial Methodist Church</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 11:22:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ministries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serving and Growing Together</title>
+      <link>http://localhost:1313/ministries/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ministries/</guid>
+      <description>Sunday School Families are the pillars of our society. We are here to come alongside you as parents in the joys and trials of raising young children and to be a partner in preaching the gospel to the youngest generation. Our vision is that kids participate in worship for the Glory of our Lord Jesus Christ.&#xA;Sunday School begins at 11 AM during worship. Your children will be in a safe environment, with screened and trained teachers, where they will learn Biblical truth, sing songs, do activities, memorize scripture, and have a fun time doing it.</description>
+    </item>
+  </channel>
+</rss>

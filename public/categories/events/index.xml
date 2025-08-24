@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Bowen Memorial Methodist Church</title>
+    <link>http://localhost:1313/categories/events/</link>
+    <description>Recent content in Events on Bowen Memorial Methodist Church</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 11:38:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PB&amp;J Open Mic: Celebrate Creativity &amp; Community 🎤</title>
+      <link>http://localhost:1313/pbj/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pbj/</guid>
+      <description>Welcome to PB&amp;amp;J (Praises Beyond Jam) Open Mic Night at Bowen Memorial Methodist Church!&#xA;Our open mic night is a vibrant and inclusive platform where individuals from all walks of life can come together to express their creativity, share their talents, and celebrate the joy of artistic expression.&#xA;📅 Event Details Event Details: 📅 Every Friday ⏰ 6:00 PM – 9:00 PM&#xA;📍 Tulloch Rd, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</description>
+    </item>
+  </channel>
+</rss>
